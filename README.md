@@ -13,3 +13,5 @@ One of the biggest cases of this code repository is concept as it covers solid C
 
 What are some of the biggest concepts covered in this coding reference?
 Sharing data members constructors and header files with other classes is one of the biggest concepts of this implemented coding reference. Also this implemented coding reference covers standard hard coding techniques that can help shape how you program in C++ as implementing and modifying this program helped reshaped my coding style.
+
+Note: Files are Header Files and .CPP files should be useable in any version of C++ although Microsoft Visual Studio 2010 is optimal they can also be opened with notepad as well.
