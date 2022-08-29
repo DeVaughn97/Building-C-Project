@@ -2,6 +2,8 @@
 Note: This Project has been updated as previously the Mortgage Class wouldn't correctly display Mortgage Class schedule or display remaining loan correctly which is now fixed.
 
 Fix Development Time: 1 Day
+
+
 Project Description: This project is was for refining standard C++ Object Oriented Programming skills at the business level with referenced implementation of rare C++ code
 
 Coding Reference: Building Business Applications Using C++: An Introduction to the Object Model by Lucy Garnett (Book)
